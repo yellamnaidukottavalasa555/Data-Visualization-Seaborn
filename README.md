@@ -4,7 +4,7 @@ This repositorie contains information about 'how to create basic plots using sea
 
 * Distribution plots
 
-Pairplot
+* Pairplot
 
 JointPlot
 
