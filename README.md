@@ -2,7 +2,7 @@
 
 This repositorie contains information about 'how to create basic plots using seaborn' for the purpose of better data visualization
 
-*Distribution plots
+* Distribution plots
 
 Pairplot
 
